@@ -97,3 +97,6 @@ This project is licensed under the [MIT License](https://chat.openai.com/c/LICEN
 ## Acknowledgments
 
 * The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/).
+* This project is part of the coursework for CPSC 483 - Introduction to Machine Learning at California State University, Fullerton, under the guidance of Professor Yu Bai.
+
+Special thanks to Professor Yu Bai for his guidance and support throughout the course.
