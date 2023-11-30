@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project focuses on predicting danceability in music using machine learning techniques. The dataset used for this project contains various features related to songs, and a RandomForestRegressor model is employed for predicting danceability.
+This project, developed as part of the Computer Science class CPSC 483 - Introduction to Machine Learning with Professor Yu Bai at California State University, Fullerton, focuses on predicting danceability in music using machine learning techniques. The dataset used for this project contains various features related to songs, and a RandomForestRegressor model is employed for predicting danceability.
 
 ## Authors
 
