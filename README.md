@@ -11,7 +11,7 @@ This project, developed as part of the Computer Science class CPSC 483 - Introdu
 ## Authors
 
 * Abel Mendoza ([@abelxmendoza](https://github.com/abelxmendoza))
-* Akshat ([@jane-smith](https://github.com/jane-smith))
+* Akshat Javiya ([@jane-smith](https://github.com/jane-smith))
 * Meng Yang ([@robert-johnson](https://github.com/robert-johnson))
 
 ## About
