@@ -94,6 +94,10 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
 
+## Presentation Slides
+
+[https://docs.google.com/presentation/d/1q_uB5_7HO8SObUxwYNHziys8H1GWyglW/edit?usp=sharing&amp;ouid=111775475907989263664&amp;rtpof=true&amp;sd=true](https://docs.google.com/presentation/d/1q_uB5_7HO8SObUxwYNHziys8H1GWyglW/edit?usp=sharing&ouid=111775475907989263664&rtpof=true&sd=true)
+
 ## Acknowledgments
 
 * The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/).
